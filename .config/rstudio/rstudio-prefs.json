@@ -1,0 +1,19 @@
+{
+    "default_project_location": "~/Github",
+    "document_author": "Jessica French",
+    "initial_working_directory": "~",
+    "default_r_version": {
+        "version": "",
+        "r_home": "",
+        "label": "",
+        "module": ""
+    },
+    "insert_native_pipe_operator": true,
+    "scroll_past_end_of_document": true,
+    "highlight_r_function_calls": true,
+    "rainbow_parentheses": true,
+    "rmd_chunk_output_inline": false,
+    "rmd_viewer_type": "pane",
+    "posix_terminal_shell": "bash",
+    "editor_theme": "Merbivore"
+}

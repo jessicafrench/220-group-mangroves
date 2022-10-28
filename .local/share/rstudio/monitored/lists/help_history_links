@@ -1,0 +1,15 @@
+help/library/NULL/help/mutate,R: help
+help/library/dplyr/html/mutate.html,"R: Create, modify, and delete columns"
+help/doc/html/Search?objects=1&port=19854,R: Search Results
+help/library/ggExtra/html/ggExtra.html,R: ggExtra
+help/library/readr/html/read_delim.html,R: Read a delimited file (including CSV and TSV) into a tibble
+help/library/base/html/file.path.html,R: Construct Path to File
+help/library/lubridate/html/lubridate-package.html,R: Dates and times made easy with lubridate
+help/library/dplyr/html/bind.html,R: Efficiently bind multiple data frames by row and column
+help/library/ggplot2/html/facet_wrap.html,R: Wrap a 1d ribbon of panels into 2d
+help/library/lubridate/html/ymd.html,"R: Parse dates with *y*ear, *m*onth, and *d*ay components"
+help/doc/html/Search?objects=1&port=29776,R: Search Results
+help/library/ggpubr/html/annotate_figure.html,R: Annotate Arranged Figure
+help/library/ggplot2/html/geom_abline.html,"R: Reference lines: horizontal, vertical, and diagonal"
+help/library/base/html/bquote.html,R: Partial substitution in expressions
+help/library/ggplot2/html/ggsave.html,R: Save a ggplot (or other grid object) with sensible defaults

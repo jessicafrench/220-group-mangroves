@@ -1,0 +1,12 @@
+{
+    "name": "JupyterLab Session 220",
+    "cluster": "Local",
+    "placement_constraints": [],
+    "resource_limits": [],
+    "queues": [],
+    "container_image": "",
+    "default_image": "",
+    "container_images": [
+        ""
+    ]
+}

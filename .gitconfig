@@ -1,0 +1,5 @@
+[credential]
+	helper = cache --timeout=10000000
+[user]
+	name = Jessica French
+	email = jessica.c.french6@gmail.com
