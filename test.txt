@@ -1,1 +1,11 @@
-This is a test for the push and pull
+Function to see the types of bands that the data set gas
+
+def get_image_ids(x):
+    first_image = x.first()
+    bands_list = first_image.bandNames()
+    lista = bands_list.getInfo()
+    for i, val in enumerate(lista):
+        print(i,val)
+
+get_image_ids(gdat)
+
