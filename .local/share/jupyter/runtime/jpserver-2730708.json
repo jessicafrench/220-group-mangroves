@@ -1,0 +1,13 @@
+{
+  "base_url": "/s/a378621f2ed7271fed69e/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 2730708,
+  "port": 8938,
+  "root_dir": "/Users/jfrench",
+  "secure": true,
+  "sock": "",
+  "token": "38ea3180284b5ffc0ebc7f2636e20d8e2680eb712e1e8b40",
+  "url": "https://taylor:8938/s/a378621f2ed7271fed69e/",
+  "version": "1.18.1"
+}

@@ -143,3 +143,55 @@ emacs
 apt install jove
 snap install emacs
 sudo install emacs
+pwd
+exit
+cd eds-220
+cd HW1
+ls
+cd homework-1-jessica
+ls
+H1_template.ipynb
+open HW1_template.ipynb
+cat HW1_template.ipynb
+cd eds-220
+ls
+cd HW1
+ls
+cd homework-1-jessica
+ls
+git status
+git branch
+clone -r HW1_template.ipynb
+code -r HW1_template.ipynb
+readlink -f HW1_template.ipynb
+/Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb
+git add -A
+git commit -m "a message"
+git push
+git branch
+git add -A
+git commit -m "this is a test"
+git status
+git pull
+git status
+git remote -v
+git config pull.rebase false
+cd eds-220
+ls
+cd hW1
+cd HW1
+ls
+cd homework-1-jessica
+ls
+readlink -f HW1_template.ipynb
+open /Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb
+/Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb
+code -r /Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb
+/Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb -o
+pwd
+open HW1_template.ipynb
+open "/Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb"
+cat /Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb
+pwd
+open /Users/jfrench/eds-220/HW1/homework-1-jessica/HW1_template.ipynb
+exit
